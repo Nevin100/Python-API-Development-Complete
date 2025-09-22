@@ -38,5 +38,5 @@
 
 # -> To make a property optional;, use typing.Optional and set a default value of None.
 
-# ###CRUD Operations with FastAPI and SQLAlchemy###
+# ###CRUD Operations with FastAPI and SQLAlchemy### (1:34:00ß∑
 
