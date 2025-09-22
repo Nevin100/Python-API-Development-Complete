@@ -37,3 +37,6 @@
 # # 5.) Return a response with the validated data
 
 # -> To make a property optional;, use typing.Optional and set a default value of None.
+
+# ###CRUD Operations with FastAPI and SQLAlchemy###
+
